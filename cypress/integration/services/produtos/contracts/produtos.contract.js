@@ -5,6 +5,7 @@ const produtosSchema = Joi.object({
     produtos: Joi.array().items(
         Joi.object({
             _id: Joi.string(),
+            nome: Joi.string(),
             preco: Joi.number(),
             descricao: Joi.string(),
             quantidade: Joi.number()
