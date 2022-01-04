@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^8.5.0",
     "faker": "^5.5.3",
-    "joi": "^17.4.2"
+    "joi": "^17.5.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

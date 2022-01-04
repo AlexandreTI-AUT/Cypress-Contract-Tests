@@ -2,6 +2,10 @@
 
 - Automatizar um teste de contrato usando a API - https://serverest.dev/ -
 
+# Consumindo o SeveRest
+
+- online -https://serverest.dev/ -  
+- npm - http://localhost:3000 - 
 # Pré condição
 
 - Instalar Node.js - https://no-dejs.org/en/download/ -
@@ -20,3 +24,7 @@
 
 - `npm install joi`
 - joi é uma ferramenta para a descrição de esquemas e validação de objetos em JavaScript.Também é possível usar bibliotecas complementares para gerar documentação Swagger para APIs que validam solicitações com esquemas joi.
+
+# Instalação ServeRest Localmente
+
+- `npx serverest@latest`

@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://serverest.dev/",
+    "baseUrl": "http://localhost:3000/",
     "video": false,
     "testFiles": "**/*.spec*"
 }
